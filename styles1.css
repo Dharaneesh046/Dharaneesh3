@@ -1,0 +1,88 @@
+*{
+    colour:white;
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image:url(g1.jpeg);
+    background-size:cover;
+    background-repeat:no-repeat;
+    border:
+    
+}
+
+header {
+    background-image:url(img4.jpeg) ;
+    color:black;
+    padding: 10px;
+    text-align: center;
+    width:500px;
+    padding-bottom:20px;
+}
+
+header nav a {
+    margin: 10px;
+    color: greenyellow;
+    text-decoration: none;
+    text-size:100px;
+}
+
+#hero {
+    background: url('../images/hero-bg.jpg') no-repeat center center/cover;
+    color: white;
+    text-align: center;
+}
+
+.btn {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+#featured-events {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.event-card1 {
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: 30%;
+    text-align: center;
+    display:block;
+}
+.event-card2 {
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: 30%;
+    text-align: center;
+    display:block;
+}
+.event-card3 {
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: 30%;
+    text-align: center;
+    display:block;
+}
+
+footer {
+    background-color: green;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.event-listings{
+    padding-left:150px;
+}
+.slearch{
+    padding:px;
+}
+
+
+
+
